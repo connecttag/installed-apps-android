@@ -7,5 +7,4 @@ public typealias AppType = org.connecttag.lib.platform.installedapps.android.App
 public typealias InstalledApp = org.connecttag.lib.platform.installedapps.android.InstalledApp
 public typealias InstalledAppPermission = org.connecttag.lib.platform.installedapps.android.InstalledAppPermission
 public typealias InstalledAppsProvider = org.connecttag.lib.platform.installedapps.android.InstalledAppsProvider
-public typealias PackageChangeEvent = org.connecttag.lib.platform.installedapps.android.PackageChangeEvent
 public typealias PackageQueries = org.connecttag.lib.platform.installedapps.android.PackageQueries
