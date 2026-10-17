@@ -4,7 +4,7 @@ plugins {
 }
 
 group = "org.connecttag.libs.kotlin"
-version = "1.0.0"
+version = "1.0.1"
 
 android {
     namespace = "org.connecttag.platform.installedapps.android"
