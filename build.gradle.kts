@@ -4,7 +4,7 @@ plugins {
 }
 
 group = "org.connecttag.libs.kotlin"
-version = "1.0.6"
+version = "1.1.0"
 
 kotlin {
     jvmToolchain(21)
@@ -42,7 +42,7 @@ afterEvaluate {
                 from(components["release"])
                 groupId = "org.connecttag.libs.kotlin"
                 artifactId = "installed-apps-android"
-                version = "1.0.6"
+                version = "1.1.0"
 
                 pom {
                     name.set("ConnectTag Installed Apps Android")
